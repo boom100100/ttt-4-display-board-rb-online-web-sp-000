@@ -3,7 +3,7 @@
 
 x = "x"
 y = "y"
-board[x,o,x,o,x,o,x,o,x]
+board = [x,o,x,o,x,o,x,o,x]
 
 def display_board(board)
 
