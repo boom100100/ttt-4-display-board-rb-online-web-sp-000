@@ -2,7 +2,7 @@
 # out the current state.
 
 x = "x"
-y = "y"
+o = "o"
 board = [x,o,x,o,x,o,x,o,x]
 
 def display_board(board)
